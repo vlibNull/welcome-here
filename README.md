@@ -11,5 +11,5 @@
 <p align="center">
   <a href="#">GitHub</a> •
   <a href="#">LinkedIn</a> •
-  <a href="#">Twitter</a>
+  <a href="#">WIP</a>
 </p>
